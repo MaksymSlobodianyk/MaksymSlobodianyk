@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Maksym!](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Maksym!](https://github.com/MaksymSlobodianyk/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-slobodianyk-7421ba186/)
 
